@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.charactercreator{
+  text-align: center;
+}
+
+.armorychoice{
+  max-width: 200px;
+  max-height:250px;
+}
+.characterFormBackground{
+  background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d544f1b8-e955-42e2-98a1-17955a8396cd/d8qo4z4-bf3cfda5-870c-444b-a341-91a817e4b31a.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Q1NDRmMWI4LWU5NTUtNDJlMi05OGExLTE3OTU1YTgzOTZjZFwvZDhxbzR6NC1iZjNjZmRhNS04NzBjLTQ0NGItYTM0MS05MWE4MTdlNGIzMWEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hbz1cPwPHA44RNXG0FKcMuBVRuL1xkxW7-0CuEoPCr8");
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat
+}
+.healthbackground{
+  background-image:url("https://image.shutterstock.com/image-photo/gold-human-skull-isolated-on-260nw-1045133950.jpg");
+  width: 100%;
+  height: 100%;
+}

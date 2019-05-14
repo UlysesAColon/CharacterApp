@@ -1,2 +1,0 @@
-# CharacterApp
-Character App
