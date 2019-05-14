@@ -1,0 +1,31 @@
+{
+  "name": "characterapp",
+  "version": "1.0.0",
+  "description": "Character app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-favicon": "^2.0.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlysesAColon/CharacterApp.git"
+  },
+  "keywords": [
+    "PTD",
+    "Character",
+    "App"
+  ],
+  "author": "Ulyses Colon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UlysesAColon/CharacterApp/issues"
+  },
+  "homepage": "https://github.com/UlysesAColon/CharacterApp#readme"
+}
